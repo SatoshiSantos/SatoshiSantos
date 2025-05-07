@@ -1,15 +1,41 @@
 Hi 👋 My name is Rafael Santos
 ==============================
 
-Financial professional, Computer science student, Blockchain enthusiast trader and investor 2017
-------------------------------------------------------------------------------------------------
+I'm a passionate self-taught developer in the world of **AI and Cybersecurity**. With a strong foundation in Python, scripting, and computer science, I’m building tools that combine **automation, security, and intelligent systems**.
 
-My career in banking and finance began in 2009, and I have been an investor and enthusiast of blockchain technologies since 2017. My goal is to obtain a the knowledge to combine my passion for finance and computer science technologies. Currently working at Polysign Inc as a digital assets fund accountant for private equity and venture funds.
+---
 
-* 🌍  I'm based in Florida
-* ✉️  You can contact me at [Rafaelsantos4115@gmail.com](mailto:Rafaelsantos4115@gmail.com)
-* 🧠  Cs50x Intro to computer science: C, Python, SQL,
-* 🤝  I'm open to collaborating on MQL4, MQL5, C++, Blockchain, and web3 related projects.
+## 🔧 What I'm Working On
+
+- 🧠 An AI-powered projects using Python and data analysis
+- 🔒 Studying for **Security+** certifications
+- 🌐 Learning **cloud security practices** and DevSecOps fundamentals
+
+---
+
+## 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MQL4](https://img.shields.io/badge/MQL4-FF9900?style=for-the-badge&logo=metatrader&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📚 Certifications
+
+- [x] CS50: Introduction to Computer Science – HarvardX   
+- [ ] CompTIA Security+ (Coming Soon)
+
+---
+
+## 🚀 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rafael-santos-849203ba/)
+- 📫 Reach me at: Rafaelsantos4115@gmail.com
+
 
 ### Skills
 
@@ -20,7 +46,8 @@ My career in banking and finance began in 2009, and I have been an investor and 
 
 * MQL4/MQL5
 * C++
-* SQL
+* Python
+* Security+
 
 
 ### Socials
@@ -37,3 +64,7 @@ My career in banking and finance began in 2009, and I have been an investor and 
 <a href="http://www.github.com/SatoshiSantos"><img src="https://activity-graph.herokuapp.com/graph?username=SatoshiSantos&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/SatoshiSantos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatoshiSantos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+---
+
+🔐 *Building secure and intelligent tools to shape the future.*
