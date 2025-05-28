@@ -26,7 +26,8 @@ I'm a passionate self-taught developer in the world of **AI and Cybersecurity**.
 
 ## 📚 Certifications
 
-- [x] CS50: Introduction to Computer Science – HarvardX   
+- [x] CS50: Introduction to Computer Science – HarvardX
+- [x] CS50P: Introduction to Programming with Python  
 - [ ] CompTIA Security+ (Coming Soon)
 
 ---
